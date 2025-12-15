@@ -12,5 +12,5 @@ The original upload of the files has since gone down, but someone reuploaded it 
 
 And now in 2025, I'm trying to figure out how to get the servers back online.
 
-For more info/leads that I've had, please look at the Wiki page (here). 
+For more info/leads that I've had, please look at the Wiki page ([here](https://github.com/radianthero/ShiningLore/wiki)). 
 
