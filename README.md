@@ -12,3 +12,4 @@ The original upload of the files has since gone down, but someone reuploaded it 
 
 For more info on how to host a server/setup the client, please look at the Wiki page ([here](https://github.com/radianthero/ShiningLore/wiki)). 
 
+An archive of a Gamespot page talking about Shining Lore, screenshots, an interview.(https://web.archive.org/web/20040218223251/http://www.gamespot.com/pc/rpg/shiningloreonline/index.html)
